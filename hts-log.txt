@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 16 Mar 2021 18:51:59 at https://electronthemes.com/html/pupko/homepage3.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://electronthemes.com/html/pupko/homepage3.html -O1 "C:\My Web Sites\xyz8" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:56:56	Error: 	"Not Found" (404) at link https://electronthemes.com/html/pupko/assets/css/fonts/slick.eot (from https://electronthemes.com/html/pupko/assets/css/base-style.css)
+18:56:56	Error: 	"Not Found" (404) at link https://electronthemes.com/html/pupko/assets/css/fonts/slick.eot? (from https://electronthemes.com/html/pupko/assets/css/base-style.css)
+18:56:56	Error: 	"Not Found" (404) at link https://electronthemes.com/html/pupko/assets/css/fonts/slick.woff (from https://electronthemes.com/html/pupko/assets/css/base-style.css)
+18:56:56	Error: 	"Not Found" (404) at link https://electronthemes.com/html/pupko/assets/css/fonts/slick.ttf (from https://electronthemes.com/html/pupko/assets/css/base-style.css)
+18:56:56	Error: 	"Not Found" (404) at link https://electronthemes.com/html/pupko/assets/css/fonts/slick.svg (from https://electronthemes.com/html/pupko/assets/css/base-style.css)
+18:56:56	Error: 	"Not Found" (404) at link https://electronthemes.com/html/pupko/assets/css/owl.video.play.png (from https://electronthemes.com/html/pupko/assets/css/base-style.css)
+18:56:56	Error: 	"Not Found" (404) at link https://electronthemes.com/html/pupko/assets/css/images/ui-bg_diagonals-thick_20_666666_40x40.png (from https://electronthemes.com/html/pupko/assets/css/base-style.css)
+18:56:56	Error: 	"Not Found" (404) at link https://electronthemes.com/html/pupko/assets/css/images/ui-bg_flat_10_000000_40x100.png (from https://electronthemes.com/html/pupko/assets/css/base-style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 57 seconds : 330 links scanned, 321 files written (20012388 bytes overall) [17610912 bytes received at 59296 bytes/sec], 4138212 bytes transferred using HTTP compression in 111 files, ratio 22%, 25.3 requests per connection
+(8 errors, 0 warnings, 0 messages)
